@@ -55,6 +55,7 @@
     <module>./bundles/org.eclipse.e4.tools.emf.ui</module>
     <module>./bundles/org.eclipse.e4.tools.jdt.templates</module>
     <module>./features/org.eclipse.e4.core.tools.feature</module>
+    <module>./features/org.eclipse.e4.tools.updatesite</module>
   </modules>
 
 	<build>
