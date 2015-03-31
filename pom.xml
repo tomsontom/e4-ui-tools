@@ -39,6 +39,12 @@
       <id>eclipse-hosted</id>
       <url>https://repo.eclipse.org/content/repositories/eclipse/</url>
     </repository>
+		<repository>
+			<id>mars</id>
+			<layout>p2</layout>
+			<url>http://download.eclipse.org/releases/mars</url>
+		</repository>
+
   </repositories>
 
    <modules>
